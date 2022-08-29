@@ -1,0 +1,19 @@
+{
+  "name": "server-rose_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeckill1993/server-rose_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeckill1993/server-rose_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Jeckill1993/server-rose_NodeJS#readme"
+}
