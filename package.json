@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jeckill1993/server-rose_NodeJS.git"
@@ -15,5 +13,9 @@
   "bugs": {
     "url": "https://github.com/Jeckill1993/server-rose_NodeJS/issues"
   },
-  "homepage": "https://github.com/Jeckill1993/server-rose_NodeJS#readme"
+  "homepage": "https://github.com/Jeckill1993/server-rose_NodeJS#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.8"
+  }
 }
